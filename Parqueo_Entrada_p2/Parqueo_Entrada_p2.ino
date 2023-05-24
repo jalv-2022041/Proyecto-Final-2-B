@@ -1,3 +1,9 @@
+//Fundación Kinal
+//Centro Educativo Técnico Labral Kinal 
+//Electrónica
+//Grado: Quinto
+//Sección: A
+//Curso: Taller de Electrónica Digital y Reparación de Computadoras I
 //librerias
 #include <Servo.h>
 //directivas
